@@ -10,7 +10,13 @@
 !.yarn/releases
 !.yarn/versions
 
-/public/surahs
+/public/surahs/al_anam.mp3
+/public/surahs/al_araf.mp3
+/public/surahs/al_baqarah.mp3
+/public/surahs/al_imran.mp3
+/public/surahs/al_maidah.mp3
+/public/surahs/an_nisa.mp3
+/public/surahs/at_tawbah.mp3
 
 # testing
 /coverage
